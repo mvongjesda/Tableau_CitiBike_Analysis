@@ -1,6 +1,6 @@
 # Tableau_CitiBike_Analysis
 
-## This Tableau storyboard visualizes the discoveries from analyzing data from Citi Bike during the time period of February-March 2020.  The link to the Tableau Viz can be found [here](https://public.tableau.com/views/CitiBikeAnalysis_15876078257070/StoryCitiBikeAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link).
+## This Tableau storyboard visualizes the discoveries from analyzing data from Citi Bike during the time period of February-March 2020.  Below is the summary of the analysis, but the link to the Tableau Viz with the full analysis and visualizations can be found [here](https://public.tableau.com/views/CitiBikeAnalysis_15876078257070/StoryCitiBikeAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link).
 
 ### Within this time period of February-March 2020, the most frequent start station was in the middle of NYC, at Pershing Square North , with 15,849 Citi Bike rentals.  That same station was the most frequent end station with 15,611 end of trip bike returns. At first glance it seems like all of the most used bike stations are all in high-population areas.  If the map is zoomed in, it can be seen that about 30% of the most used stations are actually located in or very near to low population zip codes (but that might be because they are non-residental areas).  However, most of the start and end are clustered relatively close to each other geographically, which correlates with the short duration of bike rental trips that will be covered later in this analysis.
 
